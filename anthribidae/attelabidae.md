@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 
-# Anthribidae Billberg
+# Attelabidae Billberg
 {: .no_toc }
 
 Current classification according to [Bouchard _et al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). 
