@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Anthribini
-parent: Anthribinae
+title: Attelabini
+parent: Attelabinae
 grand_parent: Classification
 has_children: false
 nav_order: 1
