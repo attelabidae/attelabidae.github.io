@@ -10,8 +10,6 @@ citation: Lee, S., Orellana, K.S. 2024. Attelabidae of the World Onlne. Availabl
 
 The collaborative site is designed to display the diversity of Attelabidae across the world, featuring specimens curated and digitized at the [O’Brien Collection (ASUCOB)]([url](https://ecdysis.org/collections/misc/collprofiles.php?collid=2)) at Arizona State University. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog. 
 
-![ASUCOB0014307_lateral_edited_1613605757](https://github.com/anthribidae/species/assets/69399374/76e3efef-828d-435f-8ecf-86ecc5a84955)
-
 ## Contact
 Please contact us via email (slee281@asu.edu) for more information.   
 
